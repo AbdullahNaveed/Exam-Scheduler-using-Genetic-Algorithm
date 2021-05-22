@@ -33,6 +33,7 @@ Files include:
 ### Prerequisites
 * Jupyter Notebook
 * Python3
+* PrettyTable
 
 <!-- USAGE EXAMPLES -->
 ## Usage
